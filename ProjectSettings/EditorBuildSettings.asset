@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/startupScene.unity
-    guid: ebe08a874585f504fa756013ab967a78
+    path: Assets/Scenes/MainScene.unity
+    guid: b536f586efa0643f2b1340da882dd1dc
   - enabled: 1
-    path: Assets/chatRoom.unity
-    guid: 1c14955a78444e74da8fd178d0726bad
+    path: Assets/Scenes/CastARScene.unity
+    guid: 65dced2162f174e048a56dda214de431
+  - enabled: 1
+    path: Assets/Scenes/AudPlayScene.unity
+    guid: 142925a09c6cc4695bd4351ed72022f4
   m_configObjects: {}
